@@ -1,7 +1,7 @@
 function createTable() {
     //Write your code here
-  const rn = prompt('Input number of rows:');
-  const cn = prompt('Input number of columns:');
+  const rn = prompt('Input number of rows');
+  const cn = prompt('Input number of columns');
 
   // Get the table element
   const myTable = document.getElementById('myTable');
